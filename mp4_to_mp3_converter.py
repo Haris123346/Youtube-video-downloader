@@ -29,9 +29,9 @@ print(Fore.RED + '''
  ╚╝ ┴─┴┘└─┘└─┘   ╩ └─┘  ╩ ╩└─┘─┴┘┴└─┘  ╚═╝└─┘┘└┘ └┘ └─┘┴└─ ┴ └─┘┴└─
 ''' + Fore.RESET)
 print(Fore.YELLOW + '''
-Author: Ahad#3257                            
-Website: https://itscruel.cf
-Github: https://github.com/CruelDev69/YouTube-Video-Downloader
+Author: ! Haris. 🥀#9580                            
+Website: https://harisxd.tk
+Github: https://github.com/Haris123346
 ''' + Fore.RESET)
 
 vidName = input(Fore.BLUE + "Make sure the name of video you enter is present in this directory.\nEnter a mp4 video's name to convert it to mp3: ") # Requiring name of mp4 file

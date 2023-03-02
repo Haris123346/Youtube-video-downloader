@@ -28,9 +28,9 @@ print(Fore.RED + '''
  ╩ └─┘└─┘ ╩ └─┘└─┘└─┘   ╚╝ ┴─┴┘└─┘└─┘  ═╩╝└─┘└┴┘┘└┘┴─┘└─┘┴ ┴─┴┘└─┘┴└─
 '''+ Fore.RESET)
 print(Fore.YELLOW +'''
-Author: Ahad#3257                            
-Website: https://itscruel.cf
-Github: https://github.com/CruelDev69/YouTube-Video-Downloader
+Author: ! Haris. 🥀#9580                            
+Website: https://harisxd.tk
+Github: https://github.com/Haris123346
 '''+ Fore.RESET)
 
 Link = str(input(Fore.BLUE + "Enter URL of a YouTube Video to download: " + Fore.RESET)) # Requiring Link of YouTube video from user.
