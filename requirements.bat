@@ -1,3 +1,3 @@
-pip i pytube
-pip i moviepy
-pip i colorama
+pip install pytube
+pip install moviepy
+pip install colorama
